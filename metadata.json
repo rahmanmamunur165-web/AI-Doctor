@@ -1,0 +1,6 @@
+{
+  "name": "RankBoost AI",
+  "description": "AI-Powered SEO Ranking Assistant & Growth Platform. Analyze, optimize, and rank higher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
